@@ -27,6 +27,11 @@ button {
     border: none;
 }
 
+a {
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
 /* BEGIN HERO RELATED CSS */
 
 .hero-body-container div, .header-link {
