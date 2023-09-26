@@ -96,3 +96,26 @@ button {
 img {
     border-radius: 10%;
 }
+
+/* END HERO RELATED CSS */
+
+.quotation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    padding: 5vh 0;
+}
+
+.quotation-container {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+.quotation-author {
+    align-self: flex-end;
+}
