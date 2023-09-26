@@ -78,3 +78,21 @@ button {
 }
 
 /* END HERO RELATED CSS */
+
+/* BEGIN HERO RELATED CSS */
+
+.info {
+    text-align: center;
+    margin: 0 0 5vh 0;
+}
+
+.info-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+img {
+    border-radius: 10%;
+}
